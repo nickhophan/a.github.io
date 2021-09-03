@@ -26,7 +26,8 @@
 ---
 - [KNN](pdf/HW1-NamHoPhan-ALY6020.pdf)
 ---
-
+### Experience Sharing
+- [How to use Azure Machine Learning Studio](pdf/EAI6010_PhanNamHoHW5.pdf)
 
 
 
