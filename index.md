@@ -11,9 +11,10 @@
 [Analysis of movie streaming platforms](pdf/movieplatformanalysis-Crewgroup-NamHoPhan.pdf)
 <img src="images/Picture2.jpg"/>
 
+### Environment
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Tree and Citizen](pdf/Tree and Citizen - DASHBOARD DESCRIPTION.pdf)
+<img src="images/treeandcitizens.jpg"/>
 
 ---
 
