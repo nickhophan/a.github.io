@@ -12,7 +12,6 @@
 <img src="images/Picture2.jpg"/>
 
 ### Environment
----
 [Tree and Citizen](pdf/Tree and Citizen - DASHBOARD DESCRIPTION.pdf )
 <img src="images/treeandcitizens.jpg"/>
 
