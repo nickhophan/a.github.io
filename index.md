@@ -20,14 +20,11 @@
 ---
 
 
-### Category Name 2
+### Topics of Predictive Model
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+- [Decision Tree](pdf/HW1-NamHoPhan-ALY6020.pdf)
+---
+- [KNN](http://example.com/)
 ---
 
 
