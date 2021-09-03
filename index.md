@@ -8,8 +8,8 @@
 <img src="images/Vietnamvaccination.JPG"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Analysis of movie streaming platforms](/pdf/sample_presentation.pdf)
+<img src="images/Picture2.jpg"/>
 
 ---
 [Project 3 Title](http://example.com/)
