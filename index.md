@@ -8,7 +8,7 @@
 <img src="images/Vietnamvaccination.JPG"/>
 
 ---
-[Analysis of movie streaming platforms](nickhophan.github.io-movieanalysis)
+[Analysis of movie streaming platforms](pdf/movieplatformanalysis-Crewgroup-NamHoPhan.pdf)
 <img src="images/Picture2.jpg"/>
 
 ---
