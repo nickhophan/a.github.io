@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[The Covid-19 Vaccination Race in Asean](/sample_page)
+<img src="images/Vietnamvaccination.JPG"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
