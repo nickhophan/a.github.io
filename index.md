@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Public Health
 
 [The Covid-19 Vaccination Race in Asean](/sample_page)
 <img src="images/Vietnamvaccination.JPG"/>
