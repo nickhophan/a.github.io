@@ -9,12 +9,12 @@
 <img src="images/Vietnamvaccination.JPG"/>
 ---
 ### Entertainment
-[Analysis of movie streaming platforms](pdf/movieplatformanalysis-Crewgroup-NamHoPhan.pdf)
+[Movie Streaming Platform Project](pdf/movieplatformanalysis-Crewgroup-NamHoPhan.pdf)
 
 <img src="images/Picture2.jpg"/>
 ---
 ### Environment
-[Tree and Citizen](http://127.0.0.1:6437/)
+[New York Tree Plant Project](http://127.0.0.1:6437/)
 
 <img src="images/Picture3.jpg"/>
 ---
