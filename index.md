@@ -24,7 +24,7 @@
 
 - [Decision Tree](pdf/HW1-NamHoPhan-ALY6020.pdf)
 ---
-- [KNN](http://example.com/)
+- [KNN](pdf/HW1-NamHoPhan-ALY6020.pdf)
 ---
 
 
