@@ -1,9 +1,12 @@
-## Portfolio
+## **Portfolio**
 
 ---
 
 ### Python
 [Bank's Marketing Campaign Prediction](pdf/Presentation.pdf)
+
+<img src="images/aa.JPG"/>
+
 ---
 [US Airline Passenger's Satisfaction Research](pdf/The analysis of passenger satisfaction with python.pdf)
 
