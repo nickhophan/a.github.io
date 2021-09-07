@@ -40,8 +40,8 @@
 - [KNN](pdf/HW1-NamHoPhan-ALY6020.pdf)
 - [Hypothesis testing](pdf/assignment5-%20NamHoPhan%20-%201910.pdf) 
 - [Regularization](pdf/Assignment4-%20Nam%20Ho%20Phan.pdf)
----
 
+---
 ### Experience Sharing
 - [How to use Azure Machine Learning Studio to create a model](pdf/EAI6010_PhanNamHoHW5.pdf)
 - [How to use neo4j to visualize real-time data](pdf/EAI6010_PhanNamHoHW4.pdf)
