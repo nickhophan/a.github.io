@@ -4,6 +4,7 @@
 
 ### Python
 [Bank's Marketing Campaign Prediction](pdf/Presentation.pdf)
+---
 [US Airline Passenger's Satisfaction Research](pdf/The analysis of passenger satisfaction with python.pdf)
 <img src="images/Picture1.png"/>
 ---
@@ -11,11 +12,11 @@
 [Movie Streaming Platform Analysis - Pearson's Chi-squared test Application](pdf/movieplatformanalysis-Crewgroup-NamHoPhan.pdf)
 
 <img src="images/Picture2.jpg"/>
-
+---
 [University Evaluation - GLM & Logistic Regression for predictive modeling](pdf/UniversityEvaluationwGLM&LogisticRegression.pdf)
 
 <img src="images/Capture.JPG"/>
-
+---
 [New York Tree Plant Project - Design interactive web app for end-users](http://127.0.0.1:6437/)
 
 <img src="images/Picture3.jpg"/>
