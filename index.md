@@ -7,15 +7,15 @@
 
 ---
 ### R
-[Movie Streaming Platform Project](pdf/movieplatformanalysis-Crewgroup-NamHoPhan.pdf)
+[Movie Streaming Platform Analysis - Pearson's Chi-squared test Application](pdf/movieplatformanalysis-Crewgroup-NamHoPhan.pdf)
 
 <img src="images/Picture2.jpg"/>
 
-[University Evaluation - GLM & Logistic Regression in R](pdf/UniversityEvaluationwGLM&LogisticRegression.pdf)
+[University Evaluation - GLM & Logistic Regression for predictive modeling](pdf/UniversityEvaluationwGLM&LogisticRegression.pdf)
 
 <img src="images/Capture.JPG"/>
 
-[New York Tree Plant Project](http://127.0.0.1:6437/)
+[New York Tree Plant Project - Design interactive web app for end-users](http://127.0.0.1:6437/)
 
 <img src="images/Picture3.jpg"/>
 ---
@@ -24,7 +24,7 @@
 ---
 ### PowerBI
 
-[The Covid-19 Vaccination Race in Asean from 03/2021 to 08/2021](/vaccination)
+[Analysis of the Covid-19 vaccination race in Asean from 03/2021 to 08/2021](/vaccination)
 
 <img src="images/Vietnamvaccination.JPG"/>
 ---
