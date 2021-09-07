@@ -18,8 +18,10 @@
 
 <img src="images/Picture3.jpg"/>
 ---
-
-
+### Education
+[University Evaluation - GLM & Logistic Regression in R] (pdf/UniversityEvaluationwGLM&LogisticRegression.pdf)
+<img src="images/Capture.JPG"/>
+---
 ### Topics of Predictive Model
 
 - [Decision Tree](pdf/HW1-NamHoPhan-ALY6020.pdf)
