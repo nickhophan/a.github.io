@@ -2,26 +2,31 @@
 
 ---
 
-### Public Health
+### Python
 
-[The Covid-19 Vaccination Race in Asean from 03/2021 to 08/2021](/vaccination)
 
-<img src="images/Vietnamvaccination.JPG"/>
 ---
-### Entertainment
+### R
 [Movie Streaming Platform Project](pdf/movieplatformanalysis-Crewgroup-NamHoPhan.pdf)
 
 <img src="images/Picture2.jpg"/>
----
-### Environment
+
+[University Evaluation - GLM & Logistic Regression in R](pdf/UniversityEvaluationwGLM&LogisticRegression.pdf)
+
+<img src="images/Capture.JPG"/>
+
 [New York Tree Plant Project](http://127.0.0.1:6437/)
 
 <img src="images/Picture3.jpg"/>
 ---
-### Education
-[University Evaluation - GLM & Logistic Regression in R](pdf/UniversityEvaluationwGLM&LogisticRegression.pdf)
+### Tableau
 
-<img src="images/Capture.JPG"/>
+---
+### PowerBI
+
+[The Covid-19 Vaccination Race in Asean from 03/2021 to 08/2021](/vaccination)
+
+<img src="images/Vietnamvaccination.JPG"/>
 ---
 ### Topics of Predictive Model
 
