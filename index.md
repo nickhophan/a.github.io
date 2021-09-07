@@ -34,11 +34,12 @@
 
 <img src="images/Vietnamvaccination.JPG"/>
 ---
-### Topics of Predictive Model
+### Topics of Statistical Modeling
 
 - [Decision Tree](pdf/HW1-NamHoPhan-ALY6020.pdf)
 - [KNN](pdf/HW1-NamHoPhan-ALY6020.pdf)
-
+- [Hypothesis testing](pdf/assignment5-%20NamHoPhan%20-%201910.pdf) 
+- [Regularization](pdf/Assignment4-%20Nam%20Ho%20Phan.pdf)
 ---
 
 ### Experience Sharing
