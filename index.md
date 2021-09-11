@@ -30,9 +30,9 @@
 ---
 ### PowerBI
 
-[Analysis of the Covid-19 vaccination race in Asean from 03/2021 to 08/2021](/vaccination)
+[Analysis of the Covid-19 vaccination race in Asean from 03/2021 to 08/2021](https://app.powerbi.com/links/90Ypi-wP7A?ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7&pbi_source=linkShare)
+<img src="images/cam.png"/>
 
-<img src="images/Vietnamvaccination.JPG"/>
 ---
 ### Topics of Statistical Modeling
 
