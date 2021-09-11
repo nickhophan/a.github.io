@@ -21,7 +21,7 @@
 
 <img src="images/Capture.JPG"/>
 ---
-[New York Tree Plant Project - Design interactive web app for end-users](http://127.0.0.1:6437/)
+[New York Tree Plant Project - Design interactive web app for end-users](pdf/RshinyTree.pdf)
 
 <img src="images/Picture3.jpg"/>
 ---
