@@ -9,7 +9,7 @@
 
 ---
 [US Airline Passenger's Satisfaction Research](pdf/The analysis of passenger satisfaction with python.pdf)
-- [Coding Script](https://github.com/nickhophan/Airline-Customer-Satisfaction-analysis.git)
+- [Coding Script](https://github.com/nickhophan/Airline-Customer-Satisfaction-analysis/blob/d2c51055b98a873ed60b9f443aeb720cbda060d9/airline.ipynb)
 
 <img src="images/Picture1.png"/>
 ---
