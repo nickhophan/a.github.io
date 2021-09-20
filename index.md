@@ -2,7 +2,7 @@
 
 ---
 ### Python
-[Rental Bike Program Analysis](https://github.com/nickhophan/Rental_Bike_Analysis/blob/1e20bb0c493cfee049f7d29827ab89232f4531fe/Case_Study_Rentalbikeprogram.ipynb)
+[Rental Bike Program Analysis](https://github.com/nickhophan/Rental_Bike_Analysis.git)
 
 <img src="pdf/yellow-bike-rentals-chattahoochee-whitewater-express-2-e1598905480969.jpg"/>
 ---
