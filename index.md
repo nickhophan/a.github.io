@@ -30,7 +30,8 @@
 <img src="images/Picture3.jpg"/>
 ---
 ### Tableau
-[Tree and Citizen Dashboard](pdf/Tree and Citizen - DASHBOARD DESCRIPTION.pdf)
+[The status of trees in NYC in 2015-2016](pdf/6070_DataVisualizations.pdf)
+[Tree and Citizen Dashboard](pdf/individual tableau - Nam Ho Phan.pdf)
 
 ---
 ### PowerBI
