@@ -8,13 +8,13 @@
 ---
 [Bank's Marketing Campaign Prediction](pdf/Presentation.pdf)
 
-<img src="images/aa.JPG"/>
+<img src="images/getty_158673029_9707279704500119_78594.jpg"/>
 
 ---
 [US Airline Passenger's Satisfaction Research](pdf/The analysis of passenger satisfaction with python.pdf)
 - [Coding Script](https://github.com/nickhophan/Airline-Customer-Satisfaction-analysis/blob/d2c51055b98a873ed60b9f443aeb720cbda060d9/airline.ipynb)
 
-<img src="images/Picture1.png"/>
+<img src="images/1491592852326.jpeg"/>
 ---
 ### R
 [Movie Streaming Platform Analysis - Pearson's Chi-squared test Application](pdf/movieplatformanalysis-Crewgroup-NamHoPhan.pdf)
