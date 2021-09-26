@@ -31,8 +31,9 @@
 ---
 ### Tableau
 [The status of trees in NYC in 2015-2016](pdf/6070_DataVisualizations.pdf)
-[Tree and Citizen Dashboard](pdf/individual tableau - Nam Ho Phan.pdf)
 
+[Tree and Citizen Dashboard](pdf/individual tableau - Nam Ho Phan.pdf)
+<img src="images/rob-bye-30850.jpg"/>
 ---
 ### PowerBI
 
