@@ -25,10 +25,6 @@
 
 <img src="images/Capture.JPG"/>
 ---
-[New York Tree Plant Project - Design interactive web app for end-users](pdf/RshinyTree.pdf)
-
-<img src="images/Picture3.jpg"/>
----
 ### Tableau
 [The status of trees in NYC in 2015-2016](pdf/6070_DataVisualizations.pdf)
 
@@ -39,7 +35,11 @@
 
 [Dashboard of the Covid-19 vaccination race in Asean from 03/2021 to 08/2021](https://app.powerbi.com/links/90Ypi-wP7A?ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7&pbi_source=linkShare)
 <img src="images/cam.png"/>
+---
+### R Shiny
+[New York Tree Plant Project - Design interactive web app for end-users](pdf/RshinyTree.pdf)
 
+<img src="images/Picture3.jpg"/>
 ---
 ### Topics of Statistical Modeling
 
